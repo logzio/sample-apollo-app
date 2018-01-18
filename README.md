@@ -1,2 +1,3 @@
 # sample-apollo-app
-Temporary repository, to demonstrate apollo CD capabilities
+This repo is used to demonstrate and test Apollo CD.  
+
